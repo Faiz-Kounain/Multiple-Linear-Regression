@@ -1,6 +1,6 @@
 # Multiple-Linear-Regression
 
-problem 50_startsup
+**problem 50_startsup**
 
 Prepare a prediction model for profit of 50_startups data.
 Do transformations for getting better predictions of profit and
@@ -12,7 +12,7 @@ Marketing Spend -- spend on Marketing in the past few years
 State -- states from which data is collected
 Profit  -- profit of each state in the past few years
 
-Problem toyota corolla
+**Problem toyota corolla**
 
 Consider only the below columns and prepare a prediction model for predicting Price.
 
